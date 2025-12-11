@@ -1,0 +1,659 @@
+[
+  {
+    "workflow": "n8n Slack integration tutorial",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 48313,
+      "likes": 1479,
+      "comments": 153,
+      "like_to_view_ratio": 0.0306,
+      "comment_to_view_ratio": 0.0032
+    }
+  },
+  {
+    "workflow": "n8n Notion automation example",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 31030,
+      "likes": 635,
+      "comments": 294,
+      "like_to_view_ratio": 0.0205,
+      "comment_to_view_ratio": 0.0095
+    }
+  },
+  {
+    "workflow": "n8n gmail automation",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "monthly_search_volume": 1752,
+      "change_last_60_days": 39.0
+    }
+  },
+  {
+    "workflow": "How to build a Slack bot with n8n",
+    "platform": "Forum",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 871,
+      "likes": 40,
+      "comments": 100,
+      "replies": 100,
+      "unique_contributors": 6
+    }
+  },
+  {
+    "workflow": "Automating Gmail with n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 17969,
+      "likes": 836,
+      "comments": 121,
+      "like_to_view_ratio": 0.0465,
+      "comment_to_view_ratio": 0.0067
+    }
+  },
+  {
+    "workflow": "n8n slack integration",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "monthly_search_volume": 3856,
+      "change_last_60_days": 29.0
+    }
+  },
+  {
+    "workflow": "n8n Slack integration tutorial",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 4686,
+      "likes": 88,
+      "comments": 4,
+      "like_to_view_ratio": 0.0188,
+      "comment_to_view_ratio": 0.0009
+    }
+  },
+  {
+    "workflow": "n8n WhatsApp reminders flow",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 22926,
+      "likes": 971,
+      "comments": 169,
+      "like_to_view_ratio": 0.0424,
+      "comment_to_view_ratio": 0.0074
+    }
+  },
+  {
+    "workflow": "Google Sheets \u2192 Slack Automation with n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 44044,
+      "likes": 1860,
+      "comments": 387,
+      "like_to_view_ratio": 0.0422,
+      "comment_to_view_ratio": 0.0088
+    }
+  },
+  {
+    "workflow": "Google Sheets \u2192 Slack Automation with n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 33976,
+      "likes": 1122,
+      "comments": 168,
+      "like_to_view_ratio": 0.033,
+      "comment_to_view_ratio": 0.0049
+    }
+  },
+  {
+    "workflow": "Anyone used n8n with Notion?",
+    "platform": "Forum",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 6741,
+      "likes": 144,
+      "comments": 185,
+      "replies": 185,
+      "unique_contributors": 2
+    }
+  },
+  {
+    "workflow": "How to build a Slack bot with n8n (11)",
+    "platform": "Forum",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 7503,
+      "likes": 197,
+      "comments": 14,
+      "replies": 14,
+      "unique_contributors": 9
+    }
+  },
+  {
+    "workflow": "n8n WhatsApp reminders flow",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 45622,
+      "likes": 2026,
+      "comments": 46,
+      "like_to_view_ratio": 0.0444,
+      "comment_to_view_ratio": 0.001
+    }
+  },
+  {
+    "workflow": "Automating Gmail with n8n (13)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 32853,
+      "likes": 1103,
+      "comments": 157,
+      "like_to_view_ratio": 0.0336,
+      "comment_to_view_ratio": 0.0048
+    }
+  },
+  {
+    "workflow": "n8n slack integration",
+    "platform": "Google",
+    "country": "IN",
+    "popularity_metrics": {
+      "monthly_search_volume": 113,
+      "change_last_60_days": 110.9
+    }
+  },
+  {
+    "workflow": "n8n Slack integration tutorial",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 41416,
+      "likes": 1382,
+      "comments": 175,
+      "like_to_view_ratio": 0.0334,
+      "comment_to_view_ratio": 0.0042
+    }
+  },
+  {
+    "workflow": "n8n google sheets integration",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "monthly_search_volume": 4021,
+      "change_last_60_days": 102.5
+    }
+  },
+  {
+    "workflow": "WhatsApp reminders workflow (17)",
+    "platform": "Forum",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 4290,
+      "likes": 53,
+      "comments": 127,
+      "replies": 127,
+      "unique_contributors": 8
+    }
+  },
+  {
+    "workflow": "WhatsApp reminders workflow",
+    "platform": "Forum",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 7534,
+      "likes": 147,
+      "comments": 189,
+      "replies": 189,
+      "unique_contributors": 9
+    }
+  },
+  {
+    "workflow": "n8n slack integration",
+    "platform": "Google",
+    "country": "IN",
+    "popularity_metrics": {
+      "monthly_search_volume": 4326,
+      "change_last_60_days": 66.7
+    }
+  },
+  {
+    "workflow": "How to build a Slack bot with n8n (20)",
+    "platform": "Forum",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 3851,
+      "likes": 173,
+      "comments": 10,
+      "replies": 10,
+      "unique_contributors": 3
+    }
+  },
+  {
+    "workflow": "WhatsApp reminders workflow (21)",
+    "platform": "Forum",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 4076,
+      "likes": 183,
+      "comments": 199,
+      "replies": 199,
+      "unique_contributors": 16
+    }
+  },
+  {
+    "workflow": "Anyone used n8n with Notion?",
+    "platform": "Forum",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 1597,
+      "likes": 33,
+      "comments": 6,
+      "replies": 6,
+      "unique_contributors": 7
+    }
+  },
+  {
+    "workflow": "n8n gmail automation",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "monthly_search_volume": 964,
+      "change_last_60_days": 94.2
+    }
+  },
+  {
+    "workflow": "n8n WhatsApp reminders flow",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 26141,
+      "likes": 260,
+      "comments": 136,
+      "like_to_view_ratio": 0.0099,
+      "comment_to_view_ratio": 0.0052
+    }
+  },
+  {
+    "workflow": "How to build a Slack bot with n8n",
+    "platform": "Forum",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 6224,
+      "likes": 62,
+      "comments": 187,
+      "replies": 187,
+      "unique_contributors": 3
+    }
+  },
+  {
+    "workflow": "WhatsApp reminders workflow",
+    "platform": "Forum",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 3360,
+      "likes": 97,
+      "comments": 169,
+      "replies": 169,
+      "unique_contributors": 6
+    }
+  },
+  {
+    "workflow": "n8n Slack integration tutorial",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 36060,
+      "likes": 738,
+      "comments": 274,
+      "like_to_view_ratio": 0.0205,
+      "comment_to_view_ratio": 0.0076
+    }
+  },
+  {
+    "workflow": "n8n notion automation",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "monthly_search_volume": 2903,
+      "change_last_60_days": 18.8
+    }
+  },
+  {
+    "workflow": "n8n notion automation",
+    "platform": "Google",
+    "country": "IN",
+    "popularity_metrics": {
+      "monthly_search_volume": 638,
+      "change_last_60_days": -22.1
+    }
+  },
+  {
+    "workflow": "n8n notion automation",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "monthly_search_volume": 2072,
+      "change_last_60_days": 48.4
+    }
+  },
+  {
+    "workflow": "WhatsApp reminders workflow (31)",
+    "platform": "Forum",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 7945,
+      "likes": 85,
+      "comments": 69,
+      "replies": 69,
+      "unique_contributors": 19
+    }
+  },
+  {
+    "workflow": "n8n gmail automation",
+    "platform": "Google",
+    "country": "IN",
+    "popularity_metrics": {
+      "monthly_search_volume": 1226,
+      "change_last_60_days": 12.1
+    }
+  },
+  {
+    "workflow": "n8n slack integration",
+    "platform": "Google",
+    "country": "IN",
+    "popularity_metrics": {
+      "monthly_search_volume": 4358,
+      "change_last_60_days": 119.4
+    }
+  },
+  {
+    "workflow": "n8n Notion automation example (34)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 4104,
+      "likes": 48,
+      "comments": 3,
+      "like_to_view_ratio": 0.0117,
+      "comment_to_view_ratio": 0.0007
+    }
+  },
+  {
+    "workflow": "n8n slack integration",
+    "platform": "Google",
+    "country": "IN",
+    "popularity_metrics": {
+      "monthly_search_volume": 3079,
+      "change_last_60_days": -6.2
+    }
+  },
+  {
+    "workflow": "Automating Gmail with n8n",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 45251,
+      "likes": 951,
+      "comments": 174,
+      "like_to_view_ratio": 0.021,
+      "comment_to_view_ratio": 0.0038
+    }
+  },
+  {
+    "workflow": "n8n gmail automation",
+    "platform": "Google",
+    "country": "IN",
+    "popularity_metrics": {
+      "monthly_search_volume": 3893,
+      "change_last_60_days": 19.1
+    }
+  },
+  {
+    "workflow": "How to build a Slack bot with n8n",
+    "platform": "Forum",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 2323,
+      "likes": 191,
+      "comments": 114,
+      "replies": 114,
+      "unique_contributors": 14
+    }
+  },
+  {
+    "workflow": "n8n WhatsApp reminders flow",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 9237,
+      "likes": 234,
+      "comments": 47,
+      "like_to_view_ratio": 0.0253,
+      "comment_to_view_ratio": 0.0051
+    }
+  },
+  {
+    "workflow": "n8n google sheets integration",
+    "platform": "Google",
+    "country": "IN",
+    "popularity_metrics": {
+      "monthly_search_volume": 1723,
+      "change_last_60_days": 108.0
+    }
+  },
+  {
+    "workflow": "n8n WhatsApp reminders flow",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 16351,
+      "likes": 582,
+      "comments": 95,
+      "like_to_view_ratio": 0.0356,
+      "comment_to_view_ratio": 0.0058
+    }
+  },
+  {
+    "workflow": "n8n gmail automation",
+    "platform": "Google",
+    "country": "IN",
+    "popularity_metrics": {
+      "monthly_search_volume": 2914,
+      "change_last_60_days": 6.1
+    }
+  },
+  {
+    "workflow": "Automating Gmail with n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 12108,
+      "likes": 589,
+      "comments": 13,
+      "like_to_view_ratio": 0.0486,
+      "comment_to_view_ratio": 0.0011
+    }
+  },
+  {
+    "workflow": "n8n WhatsApp reminders flow",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 34856,
+      "likes": 935,
+      "comments": 229,
+      "like_to_view_ratio": 0.0268,
+      "comment_to_view_ratio": 0.0066
+    }
+  },
+  {
+    "workflow": "n8n gmail automation",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "monthly_search_volume": 4704,
+      "change_last_60_days": -4.3
+    }
+  },
+  {
+    "workflow": "n8n slack integration",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "monthly_search_volume": 1347,
+      "change_last_60_days": -14.1
+    }
+  },
+  {
+    "workflow": "n8n + Google Sheets: best practice",
+    "platform": "Forum",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 5191,
+      "likes": 181,
+      "comments": 98,
+      "replies": 98,
+      "unique_contributors": 11
+    }
+  },
+  {
+    "workflow": "WhatsApp reminders workflow",
+    "platform": "Forum",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 7562,
+      "likes": 2,
+      "comments": 96,
+      "replies": 96,
+      "unique_contributors": 19
+    }
+  },
+  {
+    "workflow": "Anyone used n8n with Notion?",
+    "platform": "Forum",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 6641,
+      "likes": 22,
+      "comments": 157,
+      "replies": 157,
+      "unique_contributors": 7
+    }
+  },
+  {
+    "workflow": "n8n Slack integration tutorial (50)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 47799,
+      "likes": 1825,
+      "comments": 0,
+      "like_to_view_ratio": 0.0382,
+      "comment_to_view_ratio": 0.0
+    }
+  },
+  {
+    "workflow": "n8n gmail automation",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "monthly_search_volume": 1488,
+      "change_last_60_days": 73.3
+    }
+  },
+  {
+    "workflow": "n8n Slack integration tutorial",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 42570,
+      "likes": 1240,
+      "comments": 186,
+      "like_to_view_ratio": 0.0291,
+      "comment_to_view_ratio": 0.0044
+    }
+  },
+  {
+    "workflow": "WhatsApp reminders workflow",
+    "platform": "Forum",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 4946,
+      "likes": 103,
+      "comments": 162,
+      "replies": 162,
+      "unique_contributors": 12
+    }
+  },
+  {
+    "workflow": "n8n notion automation",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "monthly_search_volume": 666,
+      "change_last_60_days": 12.9
+    }
+  },
+  {
+    "workflow": "n8n notion automation",
+    "platform": "Google",
+    "country": "IN",
+    "popularity_metrics": {
+      "monthly_search_volume": 4485,
+      "change_last_60_days": -12.6
+    }
+  },
+  {
+    "workflow": "Google Sheets \u2192 Slack Automation with n8n",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 17170,
+      "likes": 612,
+      "comments": 48,
+      "like_to_view_ratio": 0.0356,
+      "comment_to_view_ratio": 0.0028
+    }
+  },
+  {
+    "workflow": "Automating Gmail with n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 1242,
+      "likes": 15,
+      "comments": 8,
+      "like_to_view_ratio": 0.0121,
+      "comment_to_view_ratio": 0.0064
+    }
+  },
+  {
+    "workflow": "n8n google sheets integration",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "monthly_search_volume": 301,
+      "change_last_60_days": 87.5
+    }
+  },
+  {
+    "workflow": "n8n Notion automation example",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 29170,
+      "likes": 920,
+      "comments": 62,
+      "like_to_view_ratio": 0.0315,
+      "comment_to_view_ratio": 0.0021
+    }
+  }
+]
